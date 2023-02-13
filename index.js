@@ -51,12 +51,12 @@ const questions = [
 
 //
 function writeToFile(fileName, data) {
-    return fs.writeFileSync(path.join(__dirname__, fileName), data);
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data);
 }
 
 // 
 function init() {
-    inquirer.createPromptModule(questions).then ((userAnswers) => {
+    inquirer.prompt(questions).then ((userAnswers) => {
         console.log( "userResponse = ", userAnswers);
         writeToFile ( 'GeneratedReadMe.md', genMD({ ...userAnswers}));
     })
