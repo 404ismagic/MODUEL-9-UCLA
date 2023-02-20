@@ -52,7 +52,7 @@ For any questions about the repo, contact me at  ${data.email}. You can find mor
 
 *[Tests](#tests)
 
-${data.tests}
+${data.test}
 `;
 }
 

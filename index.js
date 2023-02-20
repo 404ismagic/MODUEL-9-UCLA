@@ -46,7 +46,12 @@ const questions = [
         type: 'input',
         name: 'usage',
         message: 'What is the usage instruction for your project?',
-      },  
+      }, 
+      {
+        type: 'input',
+        name: 'test',
+        message: 'What is the test instruction for your project?',
+      },   
 ];
 
 //
