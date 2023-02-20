@@ -29,7 +29,12 @@ ${data.description}
 * [Installation](#installation)
 
 * [Usage](#usage)
+${renderLicenseLink(data.license)}
+*a[Contributing](#contributing)
 
+* [Questions](#questions)
+
+*[Tests](#tests)
 `;
 }
 
