@@ -44,16 +44,39 @@ ${data.description}
 ${renderLicenseLink(data.license)}
 * [Contributing](#contributing)
 
+* [Questions](#questions)
+
+*[Tests](#tests)
+
+## Installation
+
+To install  any dependencies,, run the following:
+
+${data.instation}
+
+## Usage
+
+${data.usage}
+
+${renderLicenseSection(data.license)}
+
+## Contributing
+
 ${data.contributing}
 
-* [Questions](#questions)
+## Questions
 
 For any questions about the repo, contact me at  ${data.email}. You can find more projects of mine at  [${data.github}](https://github.come/${data.github}).
 
-*[Tests](#tests)
+
+## Tests
 
 ${data.test}
 `;
 }
 
 module.exports = generateMarkdown;
+
+
+
+
