@@ -52,7 +52,7 @@ ${renderLicenseLink(data.license)}
 
 To install  any dependencies,, run the following:
 
-${data.instation}
+${data.installation}
 
 ## Usage
 

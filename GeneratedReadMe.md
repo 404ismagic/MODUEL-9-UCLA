@@ -17,7 +17,7 @@ b
 
 * [Questions](#questions)
 
-*[Tests](#tests)
+* [Tests](#tests)
 
 ## Installation
 
@@ -27,7 +27,7 @@ undefined
 
 ## Usage
 
-ee
+h
 
 ## License
     
@@ -35,13 +35,13 @@ ee
 
 ## Contributing
 
-dd
+g
 
 ## Questions
 
-For any questions about the repo, contact me at  v. You can find more projects of mine at  [404ismagic](https://github.come/404ismagic).
+For any questions about the repo, contact me at  v. You can find more projects of mine at  [e](https://github.come/e).
 
 
 ## Tests
 
-ee
+i
