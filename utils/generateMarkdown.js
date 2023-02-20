@@ -46,7 +46,7 @@ ${renderLicenseLink(data.license)}
 
 * [Questions](#questions)
 
-*[Tests](#tests)
+* [Tests](#tests)
 
 ## Installation
 
