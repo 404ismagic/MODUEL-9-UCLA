@@ -42,11 +42,17 @@ ${data.description}
 
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
-*a[Contributing](#contributing)
+* [Contributing](#contributing)
+
+${data.contributing}
 
 * [Questions](#questions)
 
+For any questions about the repo, contact me at  ${data.email}. You can find more projects of mine at  [${data.github}](https://github.come/${data.github}).
+
 *[Tests](#tests)
+
+${data.tests}
 `;
 }
 
